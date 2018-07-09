@@ -3,16 +3,16 @@
     "username": "Rac021",
     "repositoryName": "Rac021.github.io",
     "branch": "master",
-    "cname": "Rac021"
+    "cname": ""
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://Rac021.github.io",
+    "site": "http://Rac021",
     "hubpress": "https://rac021.github.io",
-    "theme": "//Rac021.github.io/themes/casper",
-    "images": "https://Rac021.github.io/images"
+    "theme": "//Rac021/themes/casper",
+    "images": "http://Rac021/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
