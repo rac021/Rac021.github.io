@@ -9,10 +9,10 @@
     "name": "casper"
   },
   "urls": {
-    "site": "http://Rac021",
+    "site": "https://Rac021.github.io",
     "hubpress": "https://rac021.github.io",
-    "theme": "//Rac021/themes/casper",
-    "images": "http://Rac021/images"
+    "theme": "//Rac021.github.io/themes/casper",
+    "images": "https://Rac021.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
